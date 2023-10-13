@@ -315,7 +315,7 @@ Follow the Roadmap:
 - [AWS Certified Developer Associate Practice Exams - PAID - EXAM PRACTICE](https://www.udemy.com/course/aws-certified-developer-associate-practice-exams-amazon/) 
 
 
-## Microsoft Azure:
+## Microsoft Azure: 
 
 - [Azure Course | Microsoft Azure Full Course 2023 | Azure Tutorial For Beginners | Intellipaat -FREE](https://youtu.be/hG-wgtKJ9Es)
 
@@ -345,7 +345,7 @@ Follow the Roadmap:
 
 - [Azure DevOps Tutorial for Beginners | AZ- 400 | Azure DevOps Full Course - FREE](https://www.youtube.com/watch?v=ZVUAYNWOvaI)
 
-- [Microsoft Azure Administrator (AZ-104) Exam - ITExams] (https://www.itexams.com/info/AZ-104)
+- [Microsoft Azure Administrator (AZ-104) Exam - ITExams](https://www.itexams.com/info/AZ-104)
 
 
 
